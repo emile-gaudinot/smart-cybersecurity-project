@@ -1,6 +1,7 @@
 # Topics of each notebook
 
 Each notebook is a cybersecurity problem, solved with a machine learning-based approach.
+
 This was the competitive project SmartLab, organised by Prof. Rieck from the BIOFOLD in Berlin.
 It was one of my modules at the Technical University of Berlin.
 
