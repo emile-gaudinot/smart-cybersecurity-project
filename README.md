@@ -48,5 +48,6 @@ Each notebook is self-contained and focuses on a specific cybersecurity problem,
 - **Description**: Techniques to improve robustness to I-FGSM attacks included in the training process.
 - **Notebook**: `unit6b - Adversarial ML (defense).ipynb`
 
-___
+<br>
+<br>
 Thank you for visiting my repository! I hope you find the projects insightful and informative.
