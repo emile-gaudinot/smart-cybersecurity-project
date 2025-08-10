@@ -10,6 +10,8 @@ This project is part of the SmartLab competition organized by Prof. Konrad Rieck
 After 6 months of work, my duo and I won the competition!
 Each notebook is self-contained and focuses on a specific cybersecurity problem, as listed below.
 
+![](img/adv-attacks.png)
+
 ## Projects
 
 ### 1. Spam Filtering
