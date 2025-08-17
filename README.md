@@ -4,7 +4,7 @@ Welcome to the Smart Cybersecurity Project repository! This collection of Jupyte
 
 ## Overview
 
-This repository contains implementations of machine learning models designed to tackle specific cybersecurity issues. The models used include SVM, Random Forests, Gradient Boosting and Local Outlier Factor, among others. Feature extraction techniques such as Bag-of-Words and PCA are also utilized.
+To tackle these challenges, I used SVM, Random Forests, Gradient Boosting and Local Outlier Factor, among others. Feature extraction techniques such as Bag-of-Words and PCA are also utilized.
 
 This project is part of the SmartLab competition organized by Prof. Konrad Rieck, from the BIFOLD (Berlin Institute for the Foundations of Learning and Data).
 After 6 months of work, my duo and I won the competition!
