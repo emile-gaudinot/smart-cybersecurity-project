@@ -1,5 +1,9 @@
 # Smart Cybersecurity Project
 
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA-blue)](https://creativecommons.org/)
+[![Python](https://img.shields.io/badge/Python-3.13-green)](https://www.python.org/)
+[![Sklearn](https://img.shields.io/badge/sklearn-1.5.2-purple)](https://scikit-learn.org/stable/index.html)
+
 Welcome to the Smart Cybersecurity Project repository! This collection of Jupyter notebooks showcases my work in implementing, training, and fine-tuning various proof-of-concept machine learning models to address cybersecurity challenges. The projects cover a range of topics including adversarial attacks and defenses, network intrusion detection, and malware detection in documents.
 
 ## Overview
